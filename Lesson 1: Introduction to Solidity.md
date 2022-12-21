@@ -2,13 +2,13 @@
 
 Welcome to the first lesson on Solidity! In this lesson, we'll cover the following topics:
 
-### What is Solidity?
+**What is Solidity?**
 
-### How does Solidity work?
+**How does Solidity work?**
 
-### Setting up your development environment
+**Setting up your development environment**
 
-## What is Solidity?
+**What is Solidity?**
 
 Solidity is a programming language for writing smart contracts on the Ethereum blockchain. Smart contracts are self-executing contracts with the terms of the agreement between buyer and seller being directly written into lines of code. The code and the agreements contained therein exist on the blockchain network.
 
