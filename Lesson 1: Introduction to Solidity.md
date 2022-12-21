@@ -20,7 +20,7 @@ Solidity code is compiled to bytecode, which can be deployed to the Ethereum Vir
 
 To start writing Solidity code, you'll need to set up a development environment on your computer. Here's what you'll need:
 
-A text editor or integrated development environment (IDE) for writing code. Some popular options include Visual Studio Code and Remix.
-The Solidity compiler, which translates your Solidity code into bytecode that can be deployed to the Ethereum blockchain.
-A way to interact with the Ethereum blockchain. One option is to use the command line tool truffle.
-Once you have these tools installed, you're ready to start writing Solidity code!
+- A text editor or integrated development environment (IDE) for writing code. Some popular options include Visual Studio Code and Remix.
+- The Solidity compiler, which translates your Solidity code into bytecode that can be deployed to the Ethereum blockchain.
+- A way to interact with the Ethereum blockchain. One option is to use the command line tool truffle.
+- Once you have these tools installed, you're ready to start writing Solidity code!
