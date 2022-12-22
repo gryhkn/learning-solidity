@@ -6,7 +6,6 @@ In this lesson, we'll cover the following topics:
 - Defining and calling functions
 - Modifiers in Solidity
 - Using modifiers to change the behavior of functions
--
 
 ## Functions in Solidity
 
@@ -15,6 +14,7 @@ Functions in Solidity are blocks of code that perform a specific task. You can d
 `function functionName(input1Type input1Name, input2Type input2Name, ...) public/private/external returnType {
     // function body
 }`
+
 For example, here's a simple function that adds two numbers together and returns the result:
 
 `function add(uint a, uint b) public returns (uint) {
